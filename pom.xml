@@ -11,7 +11,7 @@
     <modules>
         <module>elastic-job-common</module>
         <module>elastic-job-lite</module>
-        <!--<module>elastic-job-cloud</module>-->
+        <module>elastic-job-cloud</module>
     </modules>
     
     <properties>
